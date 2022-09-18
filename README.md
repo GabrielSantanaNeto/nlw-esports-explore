@@ -4,9 +4,9 @@
 ![preview](./.github/preview.png)
 
 
-Projeto construido no evento Next Level Week da [Rocketseat](https://www.rocketseat.com.br/)
+Projeto construido no evento Next Level Week - NLW da 🔗 [Rocketseat](https://www.rocketseat.com.br/)
 
-[Clique aqui para acessar o meu projeto](https://gabrielsantananeto.github.io/nlw-esports-explorer)
+🔗[Clique aqui para acessar o meu projeto](https://gabrielsantananeto.github.io/nlw-esports-explorer)
 ## 🛠️ Tecnologias
 
 - HTML
